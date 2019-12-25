@@ -1,2 +1,2 @@
 # deneme
-debene amaçlıdır
+deneme amaçlıdır
